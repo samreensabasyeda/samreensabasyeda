@@ -59,13 +59,13 @@ Welcome to **VisvesvarayaCode**, a **Full-Stack Java Development** repository in
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VisvesvarayaCode&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samreensabasyeda&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VisvesvarayaCode&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samreensabasyeda&layout=compact&theme=tokyonight)
 
 ---
 
