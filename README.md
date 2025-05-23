@@ -10,7 +10,6 @@
 
 <h3>☁️ Cloud & Infrastructure</h3>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
 <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
 
@@ -21,7 +20,6 @@
 <h3>🔁 CI/CD & Automation</h3>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI">
 <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
 
 <hr>
@@ -59,10 +57,10 @@
 <hr>
 
 <h2>📈 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?samreensabasyeda=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=samreensabasyeda&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 
 <h2>📊 Top Tools Used</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?samreensabasyeda=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samreensabasyeda&layout=compact&theme=tokyonight" alt="Top Languages">
 
 <hr>
 
