@@ -59,10 +59,10 @@
 <hr>
 
 <h2>📈 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?samreensyedasaba=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 
 <h2>📊 Top Tools Used</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?samreensyedasaba=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages">
 
 <hr>
 
