@@ -30,7 +30,7 @@
 
 <h3>☁️ Cloud & IaC</h3>
 <ul>
-  <li>AWS, Azure</li>
+  <li>AWS</li>
   <li>Terraform, Ansible</li>
 </ul>
 
@@ -41,7 +41,7 @@
 
 <h3>🔁 CI/CD</h3>
 <ul>
-  <li>Jenkins, GitHub Actions, GitLab CI</li>
+  <li>Jenkins, GitHub Actions</li>
   <li>Bash/Shell scripting</li>
 </ul>
 
@@ -59,10 +59,10 @@
 <hr>
 
 <h2>📈 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?samreensyedasaba=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?samreensabasyeda=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 
 <h2>📊 Top Tools Used</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?samreensyedasaba=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?samreensabasyeda=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages">
 
 <hr>
 
