@@ -1,10 +1,10 @@
-<h1>⚙️ VisvesvarayaOps</h1>
+<h1>🚀 KalamOps</h1>
 <blockquote>
-  <strong>"Engineering skills must embrace systemization and automation for progress and precision."</strong><br>
-  — Inspired by <strong>Sir M. Visvesvaraya</strong>
+  <strong>"Dreams transform into thoughts and thoughts result in action — with automation, intelligence, and innovation."</strong><br>
+  — Inspired by <strong>Dr. A.P.J. Abdul Kalam</strong>
 </blockquote>
 
-<p>Welcome to <strong>VisvesvarayaOps</strong>, a <strong>DevOps Engineering</strong> repository dedicated to building <strong>automated, scalable, and resilient infrastructures</strong>. This repo focuses on <strong>CI/CD pipelines, cloud deployments, containerization</strong>, and <strong>infrastructure as code</strong> using modern DevOps tools and practices.</p>
+<p>Welcome to <strong>KalamOps</strong>, a cutting-edge <strong>DevOps & MLOps Engineering</strong> repository dedicated to building <strong>intelligent, automated, scalable, and resilient infrastructures</strong>. This repo focuses on <strong>CI/CD pipelines, cloud-native deployments, containerization, infrastructure as code</strong>, and <strong>MLOps workflows</strong> using modern DevOps and machine learning operations practices.</p>
 
 <hr>
 
@@ -22,6 +22,11 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
 <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
 
+<h3>🧠 MLOps & Data Engineering</h3>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
+<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC">
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow">
+
 <hr>
 
 <h2>📌 Tech Stack Overview</h2>
@@ -32,7 +37,7 @@
   <li>Terraform, Ansible</li>
 </ul>
 
-<h3>🐳 Containers</h3>
+<h3>🐳 Containers & Orchestration</h3>
 <ul>
   <li>Docker, Kubernetes</li>
 </ul>
@@ -43,11 +48,17 @@
   <li>Bash/Shell scripting</li>
 </ul>
 
+<h3>🧠 MLOps Tools</h3>
+<ul>
+  <li>MLflow, DVC</li>
+</ul>
+
 <hr>
 
 <h2>🔥 Key Features</h2>
 <ul>
   <li>✅ Automated CI/CD Pipelines</li>
+  <li>✅ MLOps Workflow Pipelines</li>
   <li>✅ Scalable Cloud Infrastructure</li>
   <li>✅ Efficient Infrastructure as Code</li>
   <li>✅ Secure Containerized Deployments</li>
@@ -57,10 +68,10 @@
 <hr>
 
 <h2>📈 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=samreensabasyeda&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=samreensabasyeda&show_icons=true&theme=radical" alt="GitHub Stats">
 
 <h2>📊 Top Tools Used</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samreensabasyeda&layout=compact&theme=tokyonight" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samreensabasyeda&layout=compact&theme=radical" alt="Top Languages">
 
 <hr>
 
